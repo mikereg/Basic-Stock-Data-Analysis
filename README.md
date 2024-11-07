@@ -1,7 +1,5 @@
 # Basic-Stock-Data-Analysis
 
-# Basic Stock Data Analysis
-
 This repository contains a Jupyter notebook demonstrating fundamental concepts of stock data analysis, implemented from first principles using Python, **NumPy**, and **pandas**. The goal is to showcase how essential financial metrics and techniques can be applied in a clear, reproducible way, without relying on advanced financial libraries.
 
 ## Purpose
